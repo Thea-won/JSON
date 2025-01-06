@@ -47,7 +47,7 @@ This repository contains a collection of custom JSON-based datapacks designed to
    - Launch your Minecraft world and enjoy the enhanced gameplay experience provided by these datapacks.
 
 ## License
-This project is distributed under the [MIT License](LICENSE). Feel free to use, modify, and share these datapacks as needed.
+This project is distributed under the [GNU General Public License v3.0](LICENSE). Feel free to use, modify, and share these datapacks in compliance with the license terms.
 
 ## Contact
 If you encounter issues or have suggestions for improvements, feel free to open an issue in this repository or contact me directly via GitHub.
